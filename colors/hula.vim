@@ -11,6 +11,7 @@
 " 256 xterm		#hex		desc
 " 0 			#000000
 " 15			#FFFFFF
+" 233			#121212
 " 234			#1C1C1C
 " 81			#5fd7ff
 " 246			#949494
@@ -115,8 +116,8 @@ hi SpecialKey      guifg=#465457
 " Support for 256-color terminal
 "
 if &t_Co > 255
-	hi Normal       ctermfg=252 ctermbg=0
-	hi CursorLine               ctermbg=232   cterm=none
+	hi Normal       ctermfg=252 ctermbg=233
+	hi CursorLine               ctermbg=234   cterm=none
 	hi CursorLineNr ctermfg=208               cterm=none
 	hi Boolean         ctermfg=135
 	hi Character       ctermfg=144
@@ -170,7 +171,7 @@ if &t_Co > 255
 	hi Search          ctermfg=0   ctermbg=125   cterm=NONE
 
 	" marks column
-	hi SignColumn      ctermfg=81  ctermbg=235
+	hi SignColumn      ctermfg=81  ctermbg=233
 	hi SpecialChar     ctermfg=161               cterm=bold
 	hi SpecialComment  ctermfg=245               cterm=bold
 	hi Special         ctermfg=81
@@ -193,16 +194,16 @@ if &t_Co > 255
 	hi Type            ctermfg=81                cterm=none
 	hi Underlined      ctermfg=244               cterm=underline
 
-	hi VertSplit       ctermfg=244 ctermbg=232   cterm=bold
+	hi VertSplit       ctermfg=244 ctermbg=234   cterm=bold
 	hi VisualNOS                   ctermbg=238
-	hi Visual                      ctermbg=197
+	hi Visual                      ctermbg=238
 	hi WarningMsg      ctermfg=231 ctermbg=238   cterm=bold
 	hi WildMenu        ctermfg=81  ctermbg=16
 
 	hi Comment         ctermfg=246
 	hi CursorColumn                ctermbg=236
 	hi ColorColumn                 ctermbg=236
-	hi LineNr          ctermfg=245 ctermbg=234
+	hi LineNr          ctermfg=237 ctermbg=233
 	hi NonText         ctermfg=59
 
 	hi SpecialKey      ctermfg=59
