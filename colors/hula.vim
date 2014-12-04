@@ -8,15 +8,18 @@
 " by Hamish Stuart Macpherson
 " 
 " theme reference
-" 256 xterm		#hex		desc
-" 0 			#000000
-" 15			#FFFFFF
-" 233			#121212
-" 234			#1C1C1C
-" 81			#5fd7ff
-" 246			#949494
-" 252			#d0d0d0		normal text
-
+" desc			256 xterm	#hex
+" black			16 			#000000
+" white			15			#FFFFFF
+" background	233			#121212
+" alt-bg		234			#1C1C1C
+" sky blue		81			#5fd7ff
+" comment		246			#949494
+" default text	252			#d0d0d0
+" hot pink		161			#d7005f
+" gold			185			#d7d75f
+" green			112			#87d700			
+" purple		135			#af5fff		 
 
 hi clear
 
