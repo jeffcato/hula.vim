@@ -50,7 +50,7 @@ hi Folded          guifg=#465457 guibg=#000000
 hi Function        guifg=#d7d75f
 hi Identifier      guifg=#d0d0d0
 hi Ignore          guifg=#808080 guibg=bg
-hi IncSearch       guifg=#d7ffaf guibg=#000000
+hi IncSearch       guifg=#005f87 guibg=#000000
 
 hi Keyword         guifg=#d7005f               gui=bold
 hi Label           guifg=#5fd7ff               gui=none
@@ -149,7 +149,7 @@ if &t_Co > 255
 	hi Function        ctermfg=185
 	hi Identifier      ctermfg=252                cterm=none
 	hi Ignore          ctermfg=244 ctermbg=232
-	hi IncSearch       ctermfg=193 ctermbg=16
+	hi IncSearch       ctermfg=24  ctermbg=15
 
 	hi keyword         ctermfg=161               cterm=bold
 	"property
