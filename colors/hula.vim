@@ -50,7 +50,7 @@ hi Folded          guifg=#465457 guibg=#000000
 hi Function        guifg=#d7d75f
 hi Identifier      guifg=#d0d0d0
 hi Ignore          guifg=#808080 guibg=bg
-hi IncSearch       guifg=#005f87 guibg=#000000
+hi IncSearch       guifg=#005f87 guibg=#FFFFFF
 
 hi Keyword         guifg=#d7005f               gui=bold
 hi Label           guifg=#5fd7ff               gui=none
