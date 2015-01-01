@@ -72,7 +72,7 @@ hi PreCondit       guifg=#5fd7ff               gui=bold
 hi PreProc         guifg=#5fd7ff
 hi Question        guifg=#5fd7ff
 hi Repeat          guifg=#d7005f               gui=bold
-hi Search          guifg=none	 guibg=#005f87
+hi Search          guifg=#FFFFFF	 guibg=#005f87
 " marks
 hi SignColumn      guifg=#5fd7ff guibg=none
 hi SpecialChar     guifg=#d7005f               gui=bold
@@ -172,7 +172,7 @@ if &t_Co > 255
 	hi PreProc         ctermfg=81
 	hi Question        ctermfg=81
 	hi Repeat          ctermfg=161               cterm=bold
-	hi Search          ctermfg=none   ctermbg=24 cterm=NONE
+	hi Search          ctermfg=15   ctermbg=24	 cterm=NONE
 
 	" marks column
 	hi SignColumn      ctermfg=81  ctermbg=none
