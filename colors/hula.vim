@@ -48,7 +48,7 @@ hi Float           guifg=#af5fff
 hi FoldColumn      guifg=#465457 guibg=#000000
 hi Folded          guifg=#465457 guibg=#000000
 hi Function        guifg=#5fd7ff
-hi Identifier      guifg=#d0d0d0
+hi Identifier      guifg=#5fd7ff
 hi Ignore          guifg=#808080 guibg=bg
 hi IncSearch       guifg=#005f87 guibg=#FFFFFF
 
@@ -146,21 +146,21 @@ if &t_Co > 255
 	hi Float           ctermfg=135
 	hi FoldColumn      ctermfg=67  ctermbg=16
 	hi Folded          ctermfg=67  ctermbg=16
-	hi Function        ctermfg=81
-	hi Identifier      ctermfg=252                cterm=none
+	hi Function        ctermfg=185
+	hi Identifier      ctermfg=161                cterm=none
 	hi Ignore          ctermfg=244 ctermbg=232
 	hi IncSearch       ctermfg=24  ctermbg=15
 
 	hi keyword         ctermfg=161               cterm=none
 	"property
-	hi Label           ctermfg=81                cterm=none
+	hi Label           ctermfg=185                cterm=none
 	hi Macro           ctermfg=193
 	hi SpecialKey      ctermfg=81
 
 	hi MatchParen      ctermfg=233  ctermbg=208  cterm=none
 	hi ModeMsg         ctermfg=229
 	hi MoreMsg         ctermfg=229
-	hi Operator        ctermfg=161
+	hi Operator        ctermfg=197
 
 	" complete menu
 	hi Pmenu           ctermfg=81  ctermbg=16
