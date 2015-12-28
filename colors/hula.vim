@@ -30,11 +30,11 @@ set t_Co=256
 
 hi Cursor				ctermfg=235		ctermbg=255		cterm=NONE		guifg=#272822  	guibg=#ffffff	gui=NONE
 hi Visual				ctermfg=NONE 	ctermbg=237		cterm=NONE		guifg=NONE	   	guibg=#3a3a3a	gui=NONE
-hi CursorLine			ctermfg=NONE 	ctermbg=237		cterm=NONE		guifg=NONE	   	guibg=#3a3a3a	gui=NONE
+hi CursorLine			ctermfg=NONE 	ctermbg=234		cterm=NONE		guifg=NONE	   	guibg=#3a3a3a	gui=NONE
 hi CursorColumn			ctermfg=NONE 	ctermbg=237		cterm=NONE		guifg=NONE	   	guibg=#3a3a3a	gui=NONE
 hi ColorColumn			ctermfg=NONE 	ctermbg=234		cterm=NONE		guifg=NONE	   	guibg=#1c1c1c	gui=NONE
 hi LineNr				ctermfg=237		ctermbg=233		cterm=NONE		guifg=#3a3a3a	guibg=#121212	gui=NONE
-hi VertSplit			ctermfg=241		ctermbg=241		cterm=NONE		guifg=#626262	guibg=#626262	gui=NONE
+hi VertSplit			ctermfg=241		ctermbg=234		cterm=NONE		guifg=#626262	guibg=#626262	gui=NONE
 hi MatchParen			ctermfg=197		ctermbg=NONE 	cterm=UNDERLINE	guifg=#ff005f	guibg=NONE 		gui=UNDERLINE
 hi StatusLine			ctermfg=255		ctermbg=241 	cterm=BOLD		guifg=#ffffff	guibg=#626262 	gui=BOLD
 hi StatusLineNC			ctermfg=255		ctermbg=241 	cterm=NONE		guifg=#ffffff	guibg=#626262 	gui=NONE
