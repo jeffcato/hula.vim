@@ -35,7 +35,7 @@ hi CursorColumn		ctermfg=NONE 	ctermbg=237		cterm=NONE		guifg=NONE	  guibg=#3a3a
 hi ColorColumn		ctermfg=NONE 	ctermbg=234		cterm=NONE		guifg=NONE	  guibg=#1c1c1c	gui=NONE
 hi LineNr					ctermfg=237		ctermbg=233		cterm=NONE		guifg=#3a3a3a	guibg=#121212	gui=NONE
 hi VertSplit			ctermfg=241		ctermbg=234		cterm=NONE		guifg=#626262	guibg=#626262	gui=NONE
-hi MatchParen			ctermfg=233		ctermbg=081 	cterm=NONE 		guifg=#121212	guibg=#5fd7ff	gui=NONE	
+hi MatchParen			ctermfg=255		ctermbg=237 	cterm=NONE 		guifg=#ffffff	guibg=#373737	gui=NONE	
 hi StatusLine			ctermfg=255		ctermbg=241 	cterm=BOLD		guifg=#ffffff	guibg=#626262 gui=BOLD
 hi StatusLineNC		ctermfg=255		ctermbg=241 	cterm=NONE		guifg=#ffffff	guibg=#626262 gui=NONE
 hi Pmenu					ctermfg=NONE	ctermbg=NONE 	cterm=NONE		guifg=NONE 		guibg=NONE 		gui=NONE
