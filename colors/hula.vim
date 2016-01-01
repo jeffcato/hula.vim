@@ -89,12 +89,23 @@ hi cssValueLength		ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NON
 hi cssCommonAttr		ctermfg=081 	ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
 hi cssBraces				ctermfg=NONE 	ctermbg=NONE	cterm=NONE		guifg=NONE		guibg=NONE		gui=NONE
 
+hi htmlTagName			ctermfg=197		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
 hi htmlTag 					ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
 hi htmlEndTag 			ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
 hi htmlValue 				ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
-hi htmlTagName 			ctermfg=197		ctermbg=NONE	cterm=NONE		guifg=#ff005f	guibg=NONE		gui=NONE
 hi htmlSpecialTagName 	ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
 hi htmlArg 					ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
 hi htmlString 			ctermfg=154		ctermbg=NONE	cterm=NONE		guifg=#afff00	guibg=NONE		gui=NONE
 hi htmlValue 				ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
 hi htmlSpecialChar 	ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
+
+hi xmlTagName			ctermfg=197		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
+hi xmlTag 					ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
+hi xmlEndTag 			ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
+hi xmlValue 				ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
+hi xmlSpecialTagName 	ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
+hi xmlArg 					ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
+hi xmlString 			ctermfg=154		ctermbg=NONE	cterm=NONE		guifg=#afff00	guibg=NONE		gui=NONE
+hi xmlValue 				ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
+hi xmlSpecialChar 	ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
+
