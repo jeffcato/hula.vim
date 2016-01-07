@@ -12,6 +12,7 @@
 " 255 	#ffffff
 " 233 	#121212
 " 234 	#1c1c1c
+" 235 	#262626
 " 237 	#3a3a3a
 " 244 	#808080
 " 197		#ff005f
@@ -63,12 +64,12 @@ hi Function				ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		g
 hi Identifier			ctermfg=081 	ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=ITALIC
 hi Keyword				ctermfg=197		ctermbg=NONE	cterm=NONE		guifg=#ff005f	guibg=NONE		gui=NONE
 hi Label					ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
-hi NonText				ctermfg=237		ctermbg=233 	cterm=NONE		guifg=#3a3a3a	guibg=#121212 gui=NONE
+hi NonText				ctermfg=235		ctermbg=233 	cterm=NONE		guifg=#262626	guibg=#121212 gui=NONE
 hi Number					ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
 hi Operator				ctermfg=197		ctermbg=NONE	cterm=NONE		guifg=#ff005f	guibg=NONE		gui=NONE
 hi PreProc				ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
 hi Special				ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
-hi SpecialKey			ctermfg=081 	ctermbg=233		cterm=NONE		guifg=#5fd7ff	guibg=#121212 gui=NONE
+hi SpecialKey			ctermfg=235 	ctermbg=233		cterm=NONE		guifg=#262626	guibg=#121212 gui=NONE
 hi Statement			ctermfg=197 	ctermbg=NONE	cterm=NONE		guifg=#ff005f	guibg=NONE		gui=NONE
 hi StorageClass		ctermfg=081 	ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=ITALIC
 hi String					ctermfg=154		ctermbg=NONE	cterm=NONE		guifg=#afff00	guibg=NONE		gui=NONE
