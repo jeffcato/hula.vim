@@ -69,7 +69,7 @@ hi Number					ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gu
 hi Operator				ctermfg=197		ctermbg=NONE	cterm=NONE		guifg=#ff005f	guibg=NONE		gui=NONE
 hi PreProc				ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
 hi Special				ctermfg=255		ctermbg=NONE	cterm=NONE		guifg=#ffffff	guibg=NONE		gui=NONE
-hi SpecialKey			ctermfg=233 	ctermbg=233		cterm=NONE		guifg=#262626	guibg=#121212 gui=NONE
+hi SpecialKey			ctermfg=236 	ctermbg=233		cterm=NONE		guifg=#262626	guibg=#121212 gui=NONE
 hi Statement			ctermfg=197 	ctermbg=NONE	cterm=NONE		guifg=#ff005f	guibg=NONE		gui=NONE
 hi StorageClass		ctermfg=081 	ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=ITALIC
 hi String					ctermfg=154		ctermbg=NONE	cterm=NONE		guifg=#afff00	guibg=NONE		gui=NONE
