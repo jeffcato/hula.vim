@@ -58,8 +58,10 @@ hi DiffAdd				ctermfg=255		ctermbg=154		cterm=BOLD		guifg=#ffffff	guibg=#afff00 
 hi DiffDelete			ctermfg=197 	ctermbg=NONE	cterm=NONE		guifg=#ff005f	guibg=NONE 		gui=NONE
 hi DiffChange			ctermfg=NONE 	ctermbg=NONE	cterm=NONE		guifg=NONE		guibg=NONE		gui=NONE
 hi DiffText				ctermfg=255		ctermbg=081		cterm=BOLD		guifg=#ffffff	guibg=#5fd7ff	gui=BOLD
-hi ErrorMsg				ctermfg=255		ctermbg=161		cterm=NONE		guifg=#ffffff	guibg=#d7005f	gui=NONE
-hi WarningMsg			ctermfg=255		ctermbg=161		cterm=NONE		guifg=#ffffff	guibg=#d7005f	gui=NONE
+hi ErrorMsg				ctermfg=197		ctermbg=232		cterm=NONE		guifg=#ff005f	guibg=#080808	gui=NONE
+hi Error					ctermfg=197		ctermbg=232		cterm=NONE		guifg=#ff005f	guibg=#080808	gui=NONE
+hi WarningMsg			ctermfg=166		ctermbg=232		cterm=NONE		guifg=#d75f00	guibg=#080808	gui=NONE
+hi Warning				ctermfg=166		ctermbg=232		cterm=NONE		guifg=#d75f00	guibg=#080808	gui=NONE
 hi Float					ctermfg=141		ctermbg=NONE	cterm=NONE		guifg=#af87ff	guibg=NONE		gui=NONE
 hi Function				ctermfg=081		ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=NONE
 hi Identifier			ctermfg=081 	ctermbg=NONE	cterm=NONE		guifg=#5fd7ff	guibg=NONE		gui=ITALIC
